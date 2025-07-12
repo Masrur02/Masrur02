@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Md. Al-Masrur Khan
-- 👀 I’m interested in Robotics, Deep Learning, Reinforcement Learning
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on robotics related project
-- 📫 You can reach me via almasrurkhan@donga.ac.kr
+- 👀 I’m interested in Robotics, Vision Language Models, and Reinforcement Learning
+- 📫 You can reach me via khanmdal@iu.edu
 
 <!---
 Masrur02/Masrur02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
